@@ -1,4 +1,4 @@
-# 💰 AI-Powered Personal Expense Analyser
+# AI-Powered Personal Expense Analyser
 
 A Python-based data analytics project that generates synthetic transaction data, performs multi-dimensional expense analysis, detects spending anomalies, and delivers AI-generated financial insights via a Streamlit dashboard.
 
@@ -16,7 +16,7 @@ A Python-based data analytics project that generates synthetic transaction data,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python** — Core language
 - **Pandas & NumPy** — Data generation and processing
@@ -26,7 +26,7 @@ A Python-based data analytics project that generates synthetic transaction data,
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── step1_generate_data.py   # Generate 1000 synthetic transactions
@@ -42,7 +42,7 @@ A Python-based data analytics project that generates synthetic transaction data,
 ---
 
 
-## 📈 Key Findings (Sample Run)
+## Key Findings (Sample Run)
 
 - **Total Annual Spend:** ₹4,82,000+ across 1,000 transactions
 - **Top Category:** Food & Dining (28% of total spend)
@@ -52,7 +52,7 @@ A Python-based data analytics project that generates synthetic transaction data,
 
 ---
 
-## 🤖 AI Insights Feature
+## AI Insights Feature
 
 The project integrates with **OpenAI GPT-3.5** to generate:
 - Executive summary of spending behaviour
@@ -62,7 +62,7 @@ The project integrates with **OpenAI GPT-3.5** to generate:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Hruthikesh** | B.Tech Mining Engineering, IIT Kharagpur  
 2nd Year | Interested in Data Science & AI applications
