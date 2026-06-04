@@ -60,8 +60,6 @@ The project integrates with **OpenAI GPT-3.5** to generate:
 - Positive habit identification
 - Risk alerts for anomalous spending
 
-> Works without an API key too — falls back to a rule-based insight engine.
-
 ---
 
 ## 👨‍💻 Author
