@@ -69,6 +69,6 @@ The project integrates with **OpenAI GPT-3.5** to generate:
 
 ---
 
-## 📌 Skills Demonstrated
+## Skills Demonstrated
 
 `Python` `Pandas` `Data Cleaning` `EDA` `Data Visualisation` `Anomaly Detection` `API Integration` `Streamlit` `AI Tools`
