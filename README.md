@@ -41,34 +41,6 @@ A Python-based data analytics project that generates synthetic transaction data,
 
 ---
 
-## 🚀 How to Run
-
-### 1. Install dependencies
-```bash
-pip install pandas numpy matplotlib seaborn streamlit openai
-```
-
-### 2. Generate data
-```bash
-python step1_generate_data.py
-```
-
-### 3. Run analysis & charts
-```bash
-python step2_analysis.py
-```
-
-### 4. Generate AI insights
-```bash
-python step3_ai_insights.py
-```
-
-### 5. Launch dashboard
-```bash
-streamlit run app.py
-```
-
----
 
 ## 📈 Key Findings (Sample Run)
 
