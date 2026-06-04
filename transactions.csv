@@ -1,0 +1,1001 @@
+date,merchant,category,amount,payment_mode,month,month_num
+2024-01-01,NPTEL,Education,1492.53,UPI,January,1
+2024-01-01,Subway,Food & Dining,599.44,Cash,January,1
+2024-01-02,Nykaa,Shopping,3050.29,UPI,January,1
+2024-01-03,Steam,Entertainment,421.29,Net Banking,January,1
+2024-01-03,Airtel,Utilities,618.84,Credit Card,January,1
+2024-01-04,1mg,Health,1062.3,UPI,January,1
+2024-01-04,KFC,Food & Dining,94.16,UPI,January,1
+2024-01-04,Lakme,Personal Care,1149.93,Net Banking,January,1
+2024-01-04,Uber,Transport,834.69,UPI,January,1
+2024-01-05,Domino's,Food & Dining,653.81,UPI,January,1
+2024-01-05,Blinkit,Groceries,724.46,Net Banking,January,1
+2024-01-07,Coursera,Education,657.73,Cash,January,1
+2024-01-07,Subway,Food & Dining,322.98,Net Banking,January,1
+2024-01-07,Amazon,Shopping,2028.18,UPI,January,1
+2024-01-07,1mg,Health,949.81,Debit Card,January,1
+2024-01-08,Unacademy,Education,2637.61,Cash,January,1
+2024-01-08,Apollo Pharmacy,Health,873.28,Debit Card,January,1
+2024-01-09,Domino's,Food & Dining,358.5,UPI,January,1
+2024-01-10,Subway,Food & Dining,76.87,Credit Card,January,1
+2024-01-10,Domino's,Food & Dining,66.6,Cash,January,1
+2024-01-11,McDonald's,Food & Dining,232.68,UPI,January,1
+2024-01-11,Mamaearth,Personal Care,1217.88,Credit Card,January,1
+2024-01-11,Myntra,Shopping,4363.37,Cash,January,1
+2024-01-12,Swiggy,Food & Dining,480.11,UPI,January,1
+2024-01-13,YouTube Premium,Entertainment,295.8,Credit Card,January,1
+2024-01-14,Salon,Personal Care,1419.02,UPI,January,1
+2024-01-15,McDonald's,Food & Dining,695.28,UPI,January,1
+2024-01-16,Meesho,Shopping,1255.36,Debit Card,January,1
+2024-01-17,BigBasket,Groceries,1076.9,UPI,January,1
+2024-01-17,Myntra,Shopping,3582.24,UPI,January,1
+2024-01-17,Subway,Food & Dining,193.71,UPI,January,1
+2024-01-18,YouTube Premium,Entertainment,246.47,UPI,January,1
+2024-01-18,Rapido,Transport,335.52,UPI,January,1
+2024-01-18,ATM Withdrawal,Miscellaneous,1601.07,Cash,January,1
+2024-01-19,Ola,Transport,955.6,Net Banking,January,1
+2024-01-20,Blinkit,Groceries,479.19,Net Banking,January,1
+2024-01-20,McDonald's,Food & Dining,652.97,Credit Card,January,1
+2024-01-20,Swiggy,Food & Dining,501.25,UPI,January,1
+2024-01-21,Blinkit,Groceries,1395.93,Credit Card,January,1
+2024-01-21,1mg,Health,732.23,Credit Card,January,1
+2024-01-21,Meesho,Shopping,1468.35,UPI,January,1
+2024-01-22,Indian Railways,Transport,803.98,UPI,January,1
+2024-01-22,Ajio,Shopping,4621.58,Net Banking,January,1
+2024-01-22,Meesho,Shopping,3328.82,UPI,January,1
+2024-01-22,Jio Recharge,Utilities,189.35,Net Banking,January,1
+2024-01-22,Cult.fit,Health,842.21,Cash,January,1
+2024-01-22,Nykaa,Personal Care,318.54,Credit Card,January,1
+2024-01-22,NPTEL,Education,2740.63,UPI,January,1
+2024-01-22,PharmEasy,Health,417.3,Credit Card,January,1
+2024-01-22,Steam,Entertainment,512.04,UPI,January,1
+2024-01-23,Flipkart,Shopping,2790.85,Debit Card,January,1
+2024-01-24,Bank Charges,Miscellaneous,2122.51,UPI,January,1
+2024-01-24,Nykaa,Personal Care,1325.33,Net Banking,January,1
+2024-01-25,Blinkit,Groceries,1292.15,Debit Card,January,1
+2024-01-25,DMart,Groceries,619.11,Debit Card,January,1
+2024-01-26,JioMart,Groceries,1682.39,Net Banking,January,1
+2024-01-26,RedBus,Transport,1062.34,Credit Card,January,1
+2024-01-26,RedBus,Transport,1012.63,UPI,January,1
+2024-01-26,Meesho,Shopping,3287.92,UPI,January,1
+2024-01-27,Bank Charges,Miscellaneous,750.24,UPI,January,1
+2024-01-27,McDonald's,Food & Dining,588.02,UPI,January,1
+2024-01-28,Swiggy,Food & Dining,679.01,UPI,January,1
+2024-01-28,Airtel,Utilities,644.38,UPI,January,1
+2024-01-28,Swiggy,Food & Dining,780.8,UPI,January,1
+2024-01-28,Zepto,Groceries,976.4,Credit Card,January,1
+2024-01-29,Airtel,Utilities,434.54,UPI,January,1
+2024-01-29,Meesho,Shopping,2194.04,Credit Card,January,1
+2024-01-29,McDonald's,Food & Dining,225.62,Net Banking,January,1
+2024-01-29,Udemy,Education,430.52,Debit Card,January,1
+2024-01-29,Cafe Coffee Day,Food & Dining,639.15,Cash,January,1
+2024-01-30,Electricity Bill,Utilities,681.92,Debit Card,January,1
+2024-01-31,Zomato,Food & Dining,788.98,UPI,January,1
+2024-01-31,YouTube Premium,Entertainment,646.65,Credit Card,January,1
+2024-01-31,UPI Transfer,Miscellaneous,2134.14,UPI,January,1
+2024-01-31,Salon,Personal Care,799.39,Credit Card,January,1
+2024-01-31,UPI Transfer,Miscellaneous,400.77,Net Banking,January,1
+2024-02-01,NPTEL,Education,779.56,UPI,February,2
+2024-02-01,Flipkart,Shopping,1336.5,UPI,February,2
+2024-02-01,Airtel,Utilities,243.79,Debit Card,February,2
+2024-02-01,KFC,Food & Dining,550.6,UPI,February,2
+2024-02-02,RedBus,Transport,678.09,Credit Card,February,2
+2024-02-02,PharmEasy,Health,1066.28,UPI,February,2
+2024-02-03,IndiGo Airlines,Transport,871.08,Credit Card,February,2
+2024-02-03,KFC,Food & Dining,630.19,Net Banking,February,2
+2024-02-04,Nykaa,Personal Care,634.44,Credit Card,February,2
+2024-02-04,Domino's,Food & Dining,348.02,UPI,February,2
+2024-02-05,DMart,Groceries,641.48,UPI,February,2
+2024-02-05,KFC,Food & Dining,740.7,Cash,February,2
+2024-02-05,Zepto,Groceries,640.54,Debit Card,February,2
+2024-02-06,Spotify,Entertainment,419.48,UPI,February,2
+2024-02-06,Flipkart,Shopping,2602.29,Net Banking,February,2
+2024-02-06,Flipkart,Shopping,1122.52,Debit Card,February,2
+2024-02-07,Domino's,Food & Dining,798.84,Cash,February,2
+2024-02-07,Meesho,Shopping,1472.96,Net Banking,February,2
+2024-02-07,Nykaa,Shopping,2963.22,Debit Card,February,2
+2024-02-07,Nykaa,Shopping,2336.53,UPI,February,2
+2024-02-07,Nykaa,Shopping,2683.33,UPI,February,2
+2024-02-07,Udemy,Education,1429.9,Credit Card,February,2
+2024-02-07,Cafe Coffee Day,Food & Dining,490.69,Credit Card,February,2
+2024-02-07,Zomato,Food & Dining,60.35,UPI,February,2
+2024-02-07,IndiGo Airlines,Transport,492.85,UPI,February,2
+2024-02-08,Myntra,Shopping,1825.09,Credit Card,February,2
+2024-02-08,Swiggy,Food & Dining,695.11,Debit Card,February,2
+2024-02-08,Nykaa,Personal Care,1165.36,UPI,February,2
+2024-02-08,Zomato,Food & Dining,198.31,Credit Card,February,2
+2024-02-08,Apollo Pharmacy,Health,399.29,Cash,February,2
+2024-02-09,McDonald's,Food & Dining,175.92,Net Banking,February,2
+2024-02-10,Swiggy,Food & Dining,676.22,Credit Card,February,2
+2024-02-10,DMart,Groceries,275.68,Debit Card,February,2
+2024-02-10,Unacademy,Education,1917.72,Debit Card,February,2
+2024-02-10,Rapido,Transport,572.59,Cash,February,2
+2024-02-11,BigBasket,Groceries,1230.57,Credit Card,February,2
+2024-02-11,Amazon,Shopping,1680.1,UPI,February,2
+2024-02-11,Airtel,Utilities,161.64,Debit Card,February,2
+2024-02-12,IndiGo Airlines,Transport,223.66,UPI,February,2
+2024-02-12,RedBus,Transport,508.12,UPI,February,2
+2024-02-13,PharmEasy,Health,1468.08,Credit Card,February,2
+2024-02-13,ATM Withdrawal,Miscellaneous,1718.41,UPI,February,2
+2024-02-13,Indian Railways,Transport,782.89,UPI,February,2
+2024-02-13,KFC,Food & Dining,156.26,UPI,February,2
+2024-02-13,Unacademy,Education,1065.24,UPI,February,2
+2024-02-14,Amazon,Shopping,1086.95,UPI,February,2
+2024-02-15,Ola,Transport,728.4,Debit Card,February,2
+2024-02-15,Electricity Bill,Utilities,591.29,UPI,February,2
+2024-02-15,Swiggy,Food & Dining,328.13,Credit Card,February,2
+2024-02-15,Subway,Food & Dining,118.55,Credit Card,February,2
+2024-02-16,Ajio,Shopping,1799.88,Credit Card,February,2
+2024-02-16,Amazon,Shopping,3849.77,Debit Card,February,2
+2024-02-16,DMart,Groceries,1520.21,UPI,February,2
+2024-02-16,Jio Recharge,Utilities,575.06,Debit Card,February,2
+2024-02-16,YouTube Premium,Entertainment,329.69,Credit Card,February,2
+2024-02-16,KFC,Food & Dining,278.16,Debit Card,February,2
+2024-02-16,Electricity Bill,Utilities,1079.12,Credit Card,February,2
+2024-02-16,Subway,Food & Dining,212.89,UPI,February,2
+2024-02-17,Domino's,Food & Dining,501.51,Credit Card,February,2
+2024-02-17,Internshala,Education,322.44,UPI,February,2
+2024-02-17,Cafe Coffee Day,Food & Dining,734.7,Credit Card,February,2
+2024-02-17,RedBus,Transport,1075.07,Debit Card,February,2
+2024-02-18,Subway,Food & Dining,108.45,Credit Card,February,2
+2024-02-18,Subway,Food & Dining,461.33,UPI,February,2
+2024-02-19,Rapido,Transport,736.36,Debit Card,February,2
+2024-02-19,Domino's,Food & Dining,151.75,Credit Card,February,2
+2024-02-19,Cafe Coffee Day,Food & Dining,453.48,UPI,February,2
+2024-02-21,Nykaa,Shopping,1637.44,UPI,February,2
+2024-02-21,Zomato,Food & Dining,492.18,UPI,February,2
+2024-02-21,Ola,Transport,1083.14,UPI,February,2
+2024-02-22,NPTEL,Education,2582.26,UPI,February,2
+2024-02-22,Airtel,Utilities,502.37,UPI,February,2
+2024-02-22,1mg,Health,481.68,Cash,February,2
+2024-02-22,NPTEL,Education,1972.99,UPI,February,2
+2024-02-24,1mg,Health,305.04,Cash,February,2
+2024-02-24,Indian Railways,Transport,173.35,UPI,February,2
+2024-02-24,Zomato,Food & Dining,761.62,UPI,February,2
+2024-02-25,Swiggy,Food & Dining,452.21,UPI,February,2
+2024-02-25,Ajio,Shopping,552.76,UPI,February,2
+2024-02-25,Myntra,Shopping,4944.13,Credit Card,February,2
+2024-02-26,Subway,Food & Dining,285.27,UPI,February,2
+2024-02-26,Water Bill,Utilities,264.06,UPI,February,2
+2024-02-27,Subway,Food & Dining,293.39,UPI,February,2
+2024-02-28,NPTEL,Education,2301.46,Debit Card,February,2
+2024-02-28,Water Bill,Utilities,640.92,Credit Card,February,2
+2024-02-28,Flipkart,Shopping,4548.43,UPI,February,2
+2024-02-28,Swiggy,Food & Dining,424.28,UPI,February,2
+2024-02-28,McDonald's,Food & Dining,535.98,Credit Card,February,2
+2024-02-28,Cafe Coffee Day,Food & Dining,417.11,Cash,February,2
+2024-02-28,Domino's,Food & Dining,667.46,UPI,February,2
+2024-02-28,RedBus,Transport,877.05,UPI,February,2
+2024-02-29,DMart,Groceries,439.28,Cash,February,2
+2024-02-29,Zomato,Food & Dining,278.27,Credit Card,February,2
+2024-03-01,Udemy,Education,1594.45,Debit Card,March,3
+2024-03-01,Zomato,Food & Dining,187.28,Credit Card,March,3
+2024-03-01,1mg,Health,354.32,Debit Card,March,3
+2024-03-01,Ola,Transport,612.35,Credit Card,March,3
+2024-03-02,Other,Miscellaneous,2112.69,Credit Card,March,3
+2024-03-05,Subway,Food & Dining,760.14,UPI,March,3
+2024-03-05,Zomato,Food & Dining,791.21,UPI,March,3
+2024-03-05,Myntra,Shopping,4912.04,Debit Card,March,3
+2024-03-06,KFC,Food & Dining,755.27,Credit Card,March,3
+2024-03-06,ATM Withdrawal,Miscellaneous,2730.09,Credit Card,March,3
+2024-03-06,NPTEL,Education,460.67,Credit Card,March,3
+2024-03-06,Cafe Coffee Day,Food & Dining,672.02,UPI,March,3
+2024-03-07,Internshala,Education,651.43,UPI,March,3
+2024-03-07,Zepto,Groceries,1672.29,Net Banking,March,3
+2024-03-08,Electricity Bill,Utilities,683.94,Net Banking,March,3
+2024-03-08,Zomato,Food & Dining,492.27,UPI,March,3
+2024-03-09,Zomato,Food & Dining,606.81,UPI,March,3
+2024-03-09,JioMart,Groceries,618.39,Debit Card,March,3
+2024-03-09,Udemy,Education,390.55,Credit Card,March,3
+2024-03-10,Mamaearth,Personal Care,918.98,Credit Card,March,3
+2024-03-10,Indian Railways,Transport,656.07,Credit Card,March,3
+2024-03-11,Ajio,Shopping,1709.05,UPI,March,3
+2024-03-11,Domino's,Food & Dining,783.43,UPI,March,3
+2024-03-11,Nykaa,Shopping,4446.33,Credit Card,March,3
+2024-03-11,Bank Charges,Miscellaneous,1286.66,Credit Card,March,3
+2024-03-11,BigBasket,Groceries,1520.85,UPI,March,3
+2024-03-12,Cult.fit,Health,700.47,UPI,March,3
+2024-03-12,Subway,Food & Dining,69.71,Credit Card,March,3
+2024-03-12,Jio Recharge,Utilities,650.87,Cash,March,3
+2024-03-12,McDonald's,Food & Dining,419.84,UPI,March,3
+2024-03-13,McDonald's,Food & Dining,759.04,Net Banking,March,3
+2024-03-13,Coursera,Education,321.92,UPI,March,3
+2024-03-14,Ola,Transport,749.33,UPI,March,3
+2024-03-14,Domino's,Food & Dining,351.04,UPI,March,3
+2024-03-14,UPI Transfer,Miscellaneous,1299.32,UPI,March,3
+2024-03-15,McDonald's,Food & Dining,738.05,Credit Card,March,3
+2024-03-15,Rapido,Transport,1147.72,UPI,March,3
+2024-03-15,Udemy,Education,2331.13,Credit Card,March,3
+2024-03-16,Airtel,Utilities,134.73,Net Banking,March,3
+2024-03-17,YouTube Premium,Entertainment,182.87,Net Banking,March,3
+2024-03-17,Cafe Coffee Day,Food & Dining,440.26,UPI,March,3
+2024-03-17,Domino's,Food & Dining,444.84,Debit Card,March,3
+2024-03-18,Amazon,Shopping,805.98,Cash,March,3
+2024-03-19,Subway,Food & Dining,552.09,Credit Card,March,3
+2024-03-19,PharmEasy,Health,306.86,Debit Card,March,3
+2024-03-19,Swiggy,Food & Dining,334.88,Debit Card,March,3
+2024-03-19,Zepto,Groceries,196.63,Net Banking,March,3
+2024-03-20,Cafe Coffee Day,Food & Dining,302.45,UPI,March,3
+2024-03-20,Domino's,Food & Dining,87.32,UPI,March,3
+2024-03-20,Cafe Coffee Day,Food & Dining,641.09,Credit Card,March,3
+2024-03-21,Ajio,Shopping,4288.98,Net Banking,March,3
+2024-03-21,McDonald's,Food & Dining,634.75,UPI,March,3
+2024-03-22,Mamaearth,Personal Care,1285.11,Credit Card,March,3
+2024-03-22,Amazon,Shopping,821.15,UPI,March,3
+2024-03-23,Meesho,Shopping,4608.77,Credit Card,March,3
+2024-03-23,IndiGo Airlines,Transport,609.7,Credit Card,March,3
+2024-03-23,Domino's,Food & Dining,160.51,UPI,March,3
+2024-03-23,Subway,Food & Dining,732.77,Credit Card,March,3
+2024-03-24,Blinkit,Groceries,1728.51,Credit Card,March,3
+2024-03-25,Cafe Coffee Day,Food & Dining,758.14,Cash,March,3
+2024-03-25,Coursera,Education,1349.4,Credit Card,March,3
+2024-03-25,Blinkit,Groceries,1080.39,Credit Card,March,3
+2024-03-25,Nykaa,Shopping,3764.05,UPI,March,3
+2024-03-25,Domino's,Food & Dining,532.61,UPI,March,3
+2024-03-26,Coursera,Education,1776.02,Credit Card,March,3
+2024-03-26,Rapido,Transport,934.79,Net Banking,March,3
+2024-03-26,Internshala,Education,1380.09,Credit Card,March,3
+2024-03-27,Internshala,Education,1642.27,Credit Card,March,3
+2024-03-28,NPTEL,Education,1144.33,Net Banking,March,3
+2024-03-28,Nykaa,Shopping,3174.73,Debit Card,March,3
+2024-03-29,Steam,Entertainment,272.3,UPI,March,3
+2024-03-29,Mamaearth,Personal Care,1460.47,Debit Card,March,3
+2024-03-29,Cafe Coffee Day,Food & Dining,200.55,UPI,March,3
+2024-03-29,1mg,Health,200.15,Credit Card,March,3
+2024-03-30,BookMyShow,Entertainment,342.65,Debit Card,March,3
+2024-03-30,Cafe Coffee Day,Food & Dining,336.91,Credit Card,March,3
+2024-03-30,Cafe Coffee Day,Food & Dining,69.34,UPI,March,3
+2024-03-30,Water Bill,Utilities,1178.9,Credit Card,March,3
+2024-03-30,Flipkart,Shopping,4682.83,UPI,March,3
+2024-03-30,Steam,Entertainment,595.19,Credit Card,March,3
+2024-03-30,Subway,Food & Dining,690.95,Credit Card,March,3
+2024-03-30,DMart,Groceries,784.41,Credit Card,March,3
+2024-03-31,McDonald's,Food & Dining,654.66,Credit Card,March,3
+2024-03-31,DMart,Groceries,213.16,UPI,March,3
+2024-04-01,Other,Miscellaneous,1633.64,Debit Card,April,4
+2024-04-01,Nykaa,Personal Care,865.07,Net Banking,April,4
+2024-04-02,Myntra,Shopping,692.47,UPI,April,4
+2024-04-02,Cult.fit,Health,592.97,Net Banking,April,4
+2024-04-02,Domino's,Food & Dining,214.27,Net Banking,April,4
+2024-04-02,Indian Railways,Transport,179.69,UPI,April,4
+2024-04-02,Meesho,Shopping,1820.06,UPI,April,4
+2024-04-03,Swiggy,Food & Dining,705.86,UPI,April,4
+2024-04-03,Subway,Food & Dining,295.51,Credit Card,April,4
+2024-04-03,Jio Recharge,Utilities,887.65,Net Banking,April,4
+2024-04-04,KFC,Food & Dining,374.1,UPI,April,4
+2024-04-04,Indian Railways,Transport,462.2,UPI,April,4
+2024-04-05,Ajio,Shopping,1963.27,Debit Card,April,4
+2024-04-05,Unacademy,Education,438.94,Credit Card,April,4
+2024-04-05,Meesho,Shopping,3528.48,Credit Card,April,4
+2024-04-05,Domino's,Food & Dining,587.98,UPI,April,4
+2024-04-06,Water Bill,Utilities,696.34,UPI,April,4
+2024-04-06,Cafe Coffee Day,Food & Dining,230.23,UPI,April,4
+2024-04-06,Cafe Coffee Day,Food & Dining,352.54,UPI,April,4
+2024-04-07,KFC,Food & Dining,377.04,Credit Card,April,4
+2024-04-07,Subway,Food & Dining,555.25,Credit Card,April,4
+2024-04-07,Ajio,Shopping,3875.52,UPI,April,4
+2024-04-08,Subway,Food & Dining,257.37,Credit Card,April,4
+2024-04-09,RedBus,Transport,1181.79,Credit Card,April,4
+2024-04-09,Water Bill,Utilities,550.05,Credit Card,April,4
+2024-04-11,Zomato,Food & Dining,233.63,Credit Card,April,4
+2024-04-11,KFC,Food & Dining,672.93,UPI,April,4
+2024-04-11,YouTube Premium,Entertainment,203.72,Debit Card,April,4
+2024-04-11,Amazon,Shopping,2701.47,Cash,April,4
+2024-04-11,Ola,Transport,1040.48,UPI,April,4
+2024-04-12,YouTube Premium,Entertainment,206.96,Debit Card,April,4
+2024-04-12,PharmEasy,Health,1343.41,Debit Card,April,4
+2024-04-12,Swiggy,Food & Dining,704.56,UPI,April,4
+2024-04-13,Electricity Bill,Utilities,271.6,UPI,April,4
+2024-04-14,Internshala,Education,867.32,UPI,April,4
+2024-04-14,Swiggy,Food & Dining,745.75,UPI,April,4
+2024-04-14,Uber,Transport,395.72,Debit Card,April,4
+2024-04-14,UPI Transfer,Miscellaneous,1655.53,UPI,April,4
+2024-04-14,PharmEasy,Health,570.09,Credit Card,April,4
+2024-04-14,Meesho,Shopping,2515.85,UPI,April,4
+2024-04-15,Unacademy,Education,453.64,Credit Card,April,4
+2024-04-15,KFC,Food & Dining,656.55,UPI,April,4
+2024-04-16,Coursera,Education,1509.57,Credit Card,April,4
+2024-04-18,Apollo Pharmacy,Health,469.7,UPI,April,4
+2024-04-18,Nykaa,Personal Care,1140.57,Debit Card,April,4
+2024-04-18,JioMart,Groceries,1507.8,Debit Card,April,4
+2024-04-19,DMart,Groceries,631.72,Net Banking,April,4
+2024-04-20,PharmEasy,Health,550.5,UPI,April,4
+2024-04-20,Flipkart,Shopping,3640.58,UPI,April,4
+2024-04-21,Myntra,Shopping,3881.11,UPI,April,4
+2024-04-21,Netflix,Entertainment,353.22,Debit Card,April,4
+2024-04-21,Myntra,Shopping,1655.3,Net Banking,April,4
+2024-04-22,UPI Transfer,Miscellaneous,1577.63,UPI,April,4
+2024-04-22,Myntra,Shopping,2292.01,UPI,April,4
+2024-04-22,RedBus,Transport,94.09,UPI,April,4
+2024-04-22,Rapido,Transport,293.07,UPI,April,4
+2024-04-22,1mg,Health,141.15,UPI,April,4
+2024-04-23,Electricity Bill,Utilities,1123.52,UPI,April,4
+2024-04-23,IndiGo Airlines,Transport,1049.58,UPI,April,4
+2024-04-23,DMart,Groceries,729.03,UPI,April,4
+2024-04-23,Unacademy,Education,973.7,UPI,April,4
+2024-04-24,Electricity Bill,Utilities,1029.91,UPI,April,4
+2024-04-24,Zomato,Food & Dining,679.38,Credit Card,April,4
+2024-04-24,Jio Recharge,Utilities,1176.34,Credit Card,April,4
+2024-04-24,Electricity Bill,Utilities,716.17,Credit Card,April,4
+2024-04-24,Myntra,Shopping,4122.74,UPI,April,4
+2024-04-25,Internshala,Education,1072.86,UPI,April,4
+2024-04-26,PharmEasy,Health,1290.21,Net Banking,April,4
+2024-04-26,KFC,Food & Dining,382.33,Debit Card,April,4
+2024-04-27,BookMyShow,Entertainment,230.4,UPI,April,4
+2024-04-27,Nykaa,Shopping,4069.76,UPI,April,4
+2024-04-27,IndiGo Airlines,Transport,972.97,UPI,April,4
+2024-04-27,Myntra,Shopping,3657.23,Credit Card,April,4
+2024-04-28,Rapido,Transport,852.5,Credit Card,April,4
+2024-04-28,Myntra,Shopping,1467.8,UPI,April,4
+2024-04-28,Netflix,Entertainment,314.84,Credit Card,April,4
+2024-04-28,Flipkart,Shopping,1126.97,Credit Card,April,4
+2024-04-29,Uber,Transport,952.71,Credit Card,April,4
+2024-04-29,Myntra,Shopping,4834.86,Debit Card,April,4
+2024-04-29,ATM Withdrawal,Miscellaneous,818.79,UPI,April,4
+2024-04-30,Meesho,Shopping,1381.83,Credit Card,April,4
+2024-04-30,BigBasket,Groceries,1963.76,UPI,April,4
+2024-04-30,Subway,Food & Dining,650.95,UPI,April,4
+2024-04-30,Coursera,Education,788.6,UPI,April,4
+2024-05-01,Subway,Food & Dining,411.02,Net Banking,May,5
+2024-05-01,Blinkit,Groceries,1774.69,UPI,May,5
+2024-05-01,Netflix,Entertainment,203.55,UPI,May,5
+2024-05-01,Lakme,Personal Care,1148.4,Debit Card,May,5
+2024-05-01,Nykaa,Shopping,1580.67,Credit Card,May,5
+2024-05-01,Domino's,Food & Dining,307.32,UPI,May,5
+2024-05-02,Internshala,Education,1741.35,Credit Card,May,5
+2024-05-02,Meesho,Shopping,2394.15,UPI,May,5
+2024-05-02,Zomato,Food & Dining,743.47,UPI,May,5
+2024-05-03,RedBus,Transport,551.94,Cash,May,5
+2024-05-04,Flipkart,Shopping,2041.21,Net Banking,May,5
+2024-05-04,Udemy,Education,1309.57,UPI,May,5
+2024-05-05,Meesho,Shopping,3472.64,UPI,May,5
+2024-05-06,Electricity Bill,Utilities,942.4,Credit Card,May,5
+2024-05-06,Unacademy,Education,1666.39,Credit Card,May,5
+2024-05-06,McDonald's,Food & Dining,218.65,Cash,May,5
+2024-05-06,Coursera,Education,949.32,UPI,May,5
+2024-05-07,Cafe Coffee Day,Food & Dining,575.96,UPI,May,5
+2024-05-07,YouTube Premium,Entertainment,531.71,UPI,May,5
+2024-05-07,Internshala,Education,917.64,UPI,May,5
+2024-05-08,Udemy,Education,1958.09,Net Banking,May,5
+2024-05-08,Domino's,Food & Dining,255.84,Credit Card,May,5
+2024-05-08,Salon,Personal Care,923.21,UPI,May,5
+2024-05-08,YouTube Premium,Entertainment,591.97,Net Banking,May,5
+2024-05-09,KFC,Food & Dining,193.33,UPI,May,5
+2024-05-10,Spotify,Entertainment,171.45,Net Banking,May,5
+2024-05-10,Subway,Food & Dining,582.27,UPI,May,5
+2024-05-10,Indian Railways,Transport,553.57,UPI,May,5
+2024-05-11,Zepto,Groceries,575.27,UPI,May,5
+2024-05-12,KFC,Food & Dining,439.1,Credit Card,May,5
+2024-05-12,PharmEasy,Health,463.35,UPI,May,5
+2024-05-12,KFC,Food & Dining,641.49,UPI,May,5
+2024-05-13,Udemy,Education,372.95,UPI,May,5
+2024-05-13,YouTube Premium,Entertainment,446.49,UPI,May,5
+2024-05-14,Cult.fit,Health,1351.84,UPI,May,5
+2024-05-14,UPI Transfer,Miscellaneous,1572.28,UPI,May,5
+2024-05-14,BookMyShow,Entertainment,164.01,UPI,May,5
+2024-05-14,Myntra,Shopping,1285.96,UPI,May,5
+2024-05-14,Airtel,Utilities,493.71,UPI,May,5
+2024-05-14,YouTube Premium,Entertainment,203.31,Credit Card,May,5
+2024-05-14,Ajio,Shopping,203.46,Credit Card,May,5
+2024-05-15,Myntra,Shopping,4545.62,Debit Card,May,5
+2024-05-15,Domino's,Food & Dining,375.92,Debit Card,May,5
+2024-05-15,Ajio,Shopping,1969.21,Debit Card,May,5
+2024-05-15,Unacademy,Education,1223.62,UPI,May,5
+2024-05-16,McDonald's,Food & Dining,577.02,UPI,May,5
+2024-05-16,Water Bill,Utilities,186.82,Credit Card,May,5
+2024-05-16,Lakme,Personal Care,907.09,Credit Card,May,5
+2024-05-16,Jio Recharge,Utilities,510.36,UPI,May,5
+2024-05-17,PharmEasy,Health,1168.57,UPI,May,5
+2024-05-17,NPTEL,Education,2006.55,UPI,May,5
+2024-05-18,Lakme,Personal Care,274.93,Credit Card,May,5
+2024-05-20,Cafe Coffee Day,Food & Dining,564.35,Debit Card,May,5
+2024-05-20,Myntra,Shopping,282.28,Debit Card,May,5
+2024-05-21,YouTube Premium,Entertainment,667.84,UPI,May,5
+2024-05-21,Blinkit,Groceries,1976.3,Credit Card,May,5
+2024-05-21,KFC,Food & Dining,624.12,UPI,May,5
+2024-05-21,Amazon,Shopping,3975.44,Credit Card,May,5
+2024-05-21,KFC,Food & Dining,764.14,Credit Card,May,5
+2024-05-21,Steam,Entertainment,572.49,UPI,May,5
+2024-05-22,Domino's,Food & Dining,376.91,Debit Card,May,5
+2024-05-22,Steam,Entertainment,606.09,Cash,May,5
+2024-05-23,McDonald's,Food & Dining,212.95,UPI,May,5
+2024-05-23,Water Bill,Utilities,501.52,Net Banking,May,5
+2024-05-23,Subway,Food & Dining,447.07,Debit Card,May,5
+2024-05-23,Blinkit,Groceries,1793.46,UPI,May,5
+2024-05-24,BookMyShow,Entertainment,221.16,Credit Card,May,5
+2024-05-24,Cult.fit,Health,1451.09,Debit Card,May,5
+2024-05-24,Cult.fit,Health,603.05,Debit Card,May,5
+2024-05-24,KFC,Food & Dining,378.81,UPI,May,5
+2024-05-24,IndiGo Airlines,Transport,406.77,UPI,May,5
+2024-05-25,Mamaearth,Personal Care,717.87,Cash,May,5
+2024-05-25,Flipkart,Shopping,830.13,Debit Card,May,5
+2024-05-26,Unacademy,Education,759.5,UPI,May,5
+2024-05-26,DMart,Groceries,1768.0,UPI,May,5
+2024-05-26,Cafe Coffee Day,Food & Dining,499.64,Credit Card,May,5
+2024-05-27,Udemy,Education,405.81,Net Banking,May,5
+2024-05-28,BigBasket,Groceries,666.95,Credit Card,May,5
+2024-05-28,Meesho,Shopping,3062.58,UPI,May,5
+2024-05-28,Internshala,Education,473.97,Debit Card,May,5
+2024-05-28,Domino's,Food & Dining,432.81,UPI,May,5
+2024-05-29,Jio Recharge,Utilities,1000.86,Debit Card,May,5
+2024-05-29,Rapido,Transport,1144.3,Credit Card,May,5
+2024-05-29,BookMyShow,Entertainment,542.75,UPI,May,5
+2024-05-29,Myntra,Shopping,3570.06,UPI,May,5
+2024-05-29,Netflix,Entertainment,427.93,UPI,May,5
+2024-05-30,Flipkart,Shopping,863.26,Credit Card,May,5
+2024-05-31,Apollo Pharmacy,Health,1216.14,Credit Card,May,5
+2024-05-31,RedBus,Transport,869.67,UPI,May,5
+2024-05-31,Subway,Food & Dining,353.45,Debit Card,May,5
+2024-06-01,JioMart,Groceries,680.22,Credit Card,June,6
+2024-06-01,Water Bill,Utilities,1051.79,UPI,June,6
+2024-06-01,1mg,Health,1050.85,Credit Card,June,6
+2024-06-01,Zepto,Groceries,261.03,UPI,June,6
+2024-06-02,Amazon,Shopping,1968.12,Credit Card,June,6
+2024-06-03,McDonald's,Food & Dining,120.0,UPI,June,6
+2024-06-03,Uber,Transport,886.85,UPI,June,6
+2024-06-03,Amazon,Shopping,3379.92,UPI,June,6
+2024-06-03,Swiggy,Food & Dining,211.12,UPI,June,6
+2024-06-04,Indian Railways,Transport,949.34,Credit Card,June,6
+2024-06-04,Indian Railways,Transport,1034.13,Credit Card,June,6
+2024-06-04,Swiggy,Food & Dining,770.44,UPI,June,6
+2024-06-05,Udemy,Education,1400.85,UPI,June,6
+2024-06-05,KFC,Food & Dining,727.66,UPI,June,6
+2024-06-05,Amazon,Shopping,1043.7,Credit Card,June,6
+2024-06-06,Swiggy,Food & Dining,708.51,Net Banking,June,6
+2024-06-06,YouTube Premium,Entertainment,651.72,UPI,June,6
+2024-06-06,KFC,Food & Dining,426.89,Net Banking,June,6
+2024-06-06,Domino's,Food & Dining,712.11,Credit Card,June,6
+2024-06-06,Myntra,Shopping,690.71,UPI,June,6
+2024-06-07,Internshala,Education,1325.72,UPI,June,6
+2024-06-07,Salon,Personal Care,263.11,Debit Card,June,6
+2024-06-08,NPTEL,Education,1868.43,Net Banking,June,6
+2024-06-08,RedBus,Transport,564.39,UPI,June,6
+2024-06-09,Meesho,Shopping,755.1,Net Banking,June,6
+2024-06-09,YouTube Premium,Entertainment,334.53,UPI,June,6
+2024-06-09,Rapido,Transport,861.21,Credit Card,June,6
+2024-06-10,Amazon,Shopping,1212.72,Net Banking,June,6
+2024-06-10,Subway,Food & Dining,346.72,Net Banking,June,6
+2024-06-10,Domino's,Food & Dining,763.16,Credit Card,June,6
+2024-06-10,Salon,Personal Care,1484.55,Credit Card,June,6
+2024-06-10,Swiggy,Food & Dining,490.28,Debit Card,June,6
+2024-06-10,JioMart,Groceries,1431.38,Debit Card,June,6
+2024-06-11,Steam,Entertainment,622.43,UPI,June,6
+2024-06-11,Flipkart,Shopping,558.5,UPI,June,6
+2024-06-12,BigBasket,Groceries,362.91,UPI,June,6
+2024-06-12,Domino's,Food & Dining,604.49,UPI,June,6
+2024-06-12,Zomato,Food & Dining,478.65,UPI,June,6
+2024-06-13,Ajio,Shopping,3443.01,Credit Card,June,6
+2024-06-13,Blinkit,Groceries,1186.42,UPI,June,6
+2024-06-13,Ola,Transport,1092.29,UPI,June,6
+2024-06-13,Cult.fit,Health,726.06,Credit Card,June,6
+2024-06-14,Netflix,Entertainment,153.8,Cash,June,6
+2024-06-14,Cafe Coffee Day,Food & Dining,353.13,Credit Card,June,6
+2024-06-14,Nykaa,Personal Care,450.32,UPI,June,6
+2024-06-15,Jio Recharge,Utilities,351.95,UPI,June,6
+2024-06-15,Electricity Bill,Utilities,494.31,UPI,June,6
+2024-06-15,RedBus,Transport,650.75,Credit Card,June,6
+2024-06-17,Unacademy,Education,1189.07,Credit Card,June,6
+2024-06-18,Netflix,Entertainment,530.85,UPI,June,6
+2024-06-18,JioMart,Groceries,289.45,Net Banking,June,6
+2024-06-18,Subway,Food & Dining,536.21,Debit Card,June,6
+2024-06-18,Steam,Entertainment,238.11,UPI,June,6
+2024-06-18,RedBus,Transport,374.04,Net Banking,June,6
+2024-06-19,Water Bill,Utilities,982.46,Net Banking,June,6
+2024-06-19,McDonald's,Food & Dining,459.51,Debit Card,June,6
+2024-06-20,Cafe Coffee Day,Food & Dining,226.15,UPI,June,6
+2024-06-20,IndiGo Airlines,Transport,665.66,Credit Card,June,6
+2024-06-21,Unacademy,Education,2226.71,Debit Card,June,6
+2024-06-21,Cult.fit,Health,453.47,Cash,June,6
+2024-06-21,Cafe Coffee Day,Food & Dining,293.76,Credit Card,June,6
+2024-06-21,Meesho,Shopping,2755.23,Debit Card,June,6
+2024-06-21,Flipkart,Shopping,2917.48,Credit Card,June,6
+2024-06-22,Uber,Transport,1047.74,Credit Card,June,6
+2024-06-22,Cafe Coffee Day,Food & Dining,176.1,Credit Card,June,6
+2024-06-22,Jio Recharge,Utilities,276.81,Cash,June,6
+2024-06-23,Subway,Food & Dining,168.62,UPI,June,6
+2024-06-23,Salon,Personal Care,352.65,Cash,June,6
+2024-06-24,ATM Withdrawal,Miscellaneous,1563.19,UPI,June,6
+2024-06-24,BigBasket,Groceries,187.29,Credit Card,June,6
+2024-06-24,Subway,Food & Dining,170.68,UPI,June,6
+2024-06-24,Swiggy,Food & Dining,407.42,UPI,June,6
+2024-06-25,KFC,Food & Dining,521.19,Debit Card,June,6
+2024-06-25,UPI Transfer,Miscellaneous,2305.93,Credit Card,June,6
+2024-06-25,Salon,Personal Care,1195.84,UPI,June,6
+2024-06-25,Water Bill,Utilities,1167.78,Credit Card,June,6
+2024-06-26,Flipkart,Shopping,4062.6,UPI,June,6
+2024-06-26,Water Bill,Utilities,906.51,UPI,June,6
+2024-06-28,Uber,Transport,290.82,Credit Card,June,6
+2024-06-29,Domino's,Food & Dining,209.55,Credit Card,June,6
+2024-06-29,Airtel,Utilities,995.11,Debit Card,June,6
+2024-06-29,YouTube Premium,Entertainment,441.38,Credit Card,June,6
+2024-06-30,McDonald's,Food & Dining,576.37,Credit Card,June,6
+2024-06-30,Water Bill,Utilities,1171.22,Debit Card,June,6
+2024-06-30,Electricity Bill,Utilities,407.62,Credit Card,June,6
+2024-06-30,RedBus,Transport,600.37,Debit Card,June,6
+2024-07-01,Ola,Transport,822.3,UPI,July,7
+2024-07-02,Spotify,Entertainment,388.85,Credit Card,July,7
+2024-07-03,Zomato,Food & Dining,581.01,UPI,July,7
+2024-07-03,Mamaearth,Personal Care,629.31,Debit Card,July,7
+2024-07-03,Zomato,Food & Dining,270.91,Credit Card,July,7
+2024-07-03,RedBus,Transport,1120.26,UPI,July,7
+2024-07-03,Steam,Entertainment,592.22,Debit Card,July,7
+2024-07-04,Amazon,Shopping,2369.63,UPI,July,7
+2024-07-04,RedBus,Transport,67.89,UPI,July,7
+2024-07-04,Subway,Food & Dining,538.68,UPI,July,7
+2024-07-05,Rapido,Transport,483.28,Debit Card,July,7
+2024-07-06,Coursera,Education,1249.54,Credit Card,July,7
+2024-07-06,Netflix,Entertainment,409.0,UPI,July,7
+2024-07-06,Flipkart,Shopping,1657.15,UPI,July,7
+2024-07-06,KFC,Food & Dining,103.16,Net Banking,July,7
+2024-07-07,Jio Recharge,Utilities,809.13,Cash,July,7
+2024-07-07,Meesho,Shopping,822.9,Net Banking,July,7
+2024-07-07,Spotify,Entertainment,673.42,Credit Card,July,7
+2024-07-07,Blinkit,Groceries,827.17,Debit Card,July,7
+2024-07-07,Steam,Entertainment,697.67,Debit Card,July,7
+2024-07-09,Jio Recharge,Utilities,745.11,Credit Card,July,7
+2024-07-09,Coursera,Education,1829.51,UPI,July,7
+2024-07-09,Nykaa,Shopping,2266.82,Debit Card,July,7
+2024-07-10,Meesho,Shopping,2367.13,UPI,July,7
+2024-07-10,Airtel,Utilities,172.18,Debit Card,July,7
+2024-07-10,YouTube Premium,Entertainment,464.43,UPI,July,7
+2024-07-12,Ola,Transport,49.38,Credit Card,July,7
+2024-07-12,Spotify,Entertainment,553.48,Cash,July,7
+2024-07-12,Zomato,Food & Dining,366.68,UPI,July,7
+2024-07-12,Uber,Transport,323.31,UPI,July,7
+2024-07-13,KFC,Food & Dining,675.58,UPI,July,7
+2024-07-13,PharmEasy,Health,948.62,UPI,July,7
+2024-07-14,IndiGo Airlines,Transport,957.1,Credit Card,July,7
+2024-07-14,Ajio,Shopping,459.5,Net Banking,July,7
+2024-07-14,IndiGo Airlines,Transport,395.81,Credit Card,July,7
+2024-07-14,IndiGo Airlines,Transport,1092.19,Debit Card,July,7
+2024-07-14,Jio Recharge,Utilities,1172.06,Debit Card,July,7
+2024-07-15,Flipkart,Shopping,908.34,Credit Card,July,7
+2024-07-15,BigBasket,Groceries,550.69,Credit Card,July,7
+2024-07-15,Salon,Personal Care,951.83,Credit Card,July,7
+2024-07-16,Subway,Food & Dining,340.85,UPI,July,7
+2024-07-16,Cult.fit,Health,408.39,Cash,July,7
+2024-07-18,NPTEL,Education,215.52,Debit Card,July,7
+2024-07-20,Rapido,Transport,682.66,UPI,July,7
+2024-07-21,Flipkart,Shopping,2053.6,UPI,July,7
+2024-07-21,Ajio,Shopping,3479.42,UPI,July,7
+2024-07-21,DMart,Groceries,1411.98,UPI,July,7
+2024-07-21,Flipkart,Shopping,2685.16,Debit Card,July,7
+2024-07-21,Subway,Food & Dining,635.73,Net Banking,July,7
+2024-07-22,Lakme,Personal Care,208.23,UPI,July,7
+2024-07-22,Airtel,Utilities,1130.27,Cash,July,7
+2024-07-22,Domino's,Food & Dining,146.18,Credit Card,July,7
+2024-07-22,Amazon,Shopping,698.86,Credit Card,July,7
+2024-07-23,Ola,Transport,1161.26,UPI,July,7
+2024-07-24,Jio Recharge,Utilities,600.31,UPI,July,7
+2024-07-24,KFC,Food & Dining,524.88,UPI,July,7
+2024-07-24,Ajio,Shopping,1504.8,UPI,July,7
+2024-07-24,Swiggy,Food & Dining,478.56,Cash,July,7
+2024-07-25,Domino's,Food & Dining,560.61,UPI,July,7
+2024-07-25,Cafe Coffee Day,Food & Dining,443.21,Credit Card,July,7
+2024-07-25,BookMyShow,Entertainment,204.02,Credit Card,July,7
+2024-07-26,Jio Recharge,Utilities,187.02,UPI,July,7
+2024-07-27,Flipkart,Shopping,3514.92,Credit Card,July,7
+2024-07-27,IndiGo Airlines,Transport,503.2,UPI,July,7
+2024-07-28,Jio Recharge,Utilities,237.86,UPI,July,7
+2024-07-28,Udemy,Education,1972.34,UPI,July,7
+2024-07-29,KFC,Food & Dining,404.73,Net Banking,July,7
+2024-07-29,Steam,Entertainment,614.98,UPI,July,7
+2024-07-29,JioMart,Groceries,215.86,UPI,July,7
+2024-07-29,Amazon,Shopping,1455.74,UPI,July,7
+2024-07-30,Cafe Coffee Day,Food & Dining,215.96,UPI,July,7
+2024-07-30,Ajio,Shopping,1885.91,UPI,July,7
+2024-07-30,Zepto,Groceries,370.66,UPI,July,7
+2024-07-30,Zomato,Food & Dining,186.81,UPI,July,7
+2024-07-31,RedBus,Transport,342.59,UPI,July,7
+2024-07-31,Unacademy,Education,1922.83,Net Banking,July,7
+2024-07-31,KFC,Food & Dining,678.1,Credit Card,July,7
+2024-08-01,KFC,Food & Dining,114.21,Cash,August,8
+2024-08-01,Netflix,Entertainment,457.15,UPI,August,8
+2024-08-01,Myntra,Shopping,2007.01,Debit Card,August,8
+2024-08-01,NPTEL,Education,999.6,Debit Card,August,8
+2024-08-02,Nykaa,Shopping,2821.44,Credit Card,August,8
+2024-08-02,Cafe Coffee Day,Food & Dining,726.73,Debit Card,August,8
+2024-08-02,Myntra,Shopping,3567.84,Debit Card,August,8
+2024-08-03,Zomato,Food & Dining,402.73,Debit Card,August,8
+2024-08-03,Nykaa,Shopping,505.08,UPI,August,8
+2024-08-03,IndiGo Airlines,Transport,232.14,Credit Card,August,8
+2024-08-04,Steam,Entertainment,327.97,Cash,August,8
+2024-08-04,BigBasket,Groceries,1939.96,Credit Card,August,8
+2024-08-04,Meesho,Shopping,356.3,UPI,August,8
+2024-08-05,Airtel,Utilities,691.53,Debit Card,August,8
+2024-08-05,KFC,Food & Dining,614.15,UPI,August,8
+2024-08-06,PharmEasy,Health,1284.31,Net Banking,August,8
+2024-08-07,Water Bill,Utilities,395.39,Debit Card,August,8
+2024-08-07,KFC,Food & Dining,732.06,Net Banking,August,8
+2024-08-07,Uber,Transport,319.91,Credit Card,August,8
+2024-08-07,Zomato,Food & Dining,247.21,Cash,August,8
+2024-08-07,Ajio,Shopping,2039.92,UPI,August,8
+2024-08-08,Indian Railways,Transport,576.42,Debit Card,August,8
+2024-08-08,Meesho,Shopping,2659.72,UPI,August,8
+2024-08-08,Mamaearth,Personal Care,942.39,UPI,August,8
+2024-08-10,McDonald's,Food & Dining,413.17,UPI,August,8
+2024-08-10,Coursera,Education,2290.29,UPI,August,8
+2024-08-11,YouTube Premium,Entertainment,146.19,Net Banking,August,8
+2024-08-11,JioMart,Groceries,1799.81,UPI,August,8
+2024-08-12,Zomato,Food & Dining,227.0,Credit Card,August,8
+2024-08-13,Ola,Transport,325.4,Net Banking,August,8
+2024-08-13,Subway,Food & Dining,523.54,Debit Card,August,8
+2024-08-14,Unacademy,Education,1898.81,UPI,August,8
+2024-08-14,Unacademy,Education,798.16,Debit Card,August,8
+2024-08-14,Electricity Bill,Utilities,930.62,Credit Card,August,8
+2024-08-15,Ola,Transport,880.37,Net Banking,August,8
+2024-08-17,JioMart,Groceries,813.73,Credit Card,August,8
+2024-08-18,Subway,Food & Dining,477.39,Credit Card,August,8
+2024-08-18,Lakme,Personal Care,710.39,UPI,August,8
+2024-08-18,Myntra,Shopping,2854.58,UPI,August,8
+2024-08-18,BookMyShow,Entertainment,670.11,Credit Card,August,8
+2024-08-18,Cafe Coffee Day,Food & Dining,662.55,UPI,August,8
+2024-08-18,Meesho,Shopping,4789.71,UPI,August,8
+2024-08-18,IndiGo Airlines,Transport,387.64,Credit Card,August,8
+2024-08-19,Cafe Coffee Day,Food & Dining,710.09,UPI,August,8
+2024-08-19,Cafe Coffee Day,Food & Dining,630.16,Credit Card,August,8
+2024-08-20,IndiGo Airlines,Transport,1150.06,Cash,August,8
+2024-08-20,McDonald's,Food & Dining,222.9,Debit Card,August,8
+2024-08-20,Swiggy,Food & Dining,531.28,Credit Card,August,8
+2024-08-20,IndiGo Airlines,Transport,141.25,UPI,August,8
+2024-08-20,Apollo Pharmacy,Health,652.98,Credit Card,August,8
+2024-08-21,Subway,Food & Dining,550.68,Cash,August,8
+2024-08-21,Water Bill,Utilities,483.13,UPI,August,8
+2024-08-22,Swiggy,Food & Dining,234.97,Credit Card,August,8
+2024-08-22,Steam,Entertainment,428.84,UPI,August,8
+2024-08-22,Cafe Coffee Day,Food & Dining,586.75,Debit Card,August,8
+2024-08-22,NPTEL,Education,2612.67,Credit Card,August,8
+2024-08-23,Ajio,Shopping,578.24,UPI,August,8
+2024-08-23,Zomato,Food & Dining,724.18,Credit Card,August,8
+2024-08-23,Cafe Coffee Day,Food & Dining,168.49,Credit Card,August,8
+2024-08-23,Subway,Food & Dining,276.61,Credit Card,August,8
+2024-08-23,Coursera,Education,444.06,UPI,August,8
+2024-08-23,Ola,Transport,43.83,UPI,August,8
+2024-08-24,IndiGo Airlines,Transport,835.15,UPI,August,8
+2024-08-25,Zepto,Groceries,884.09,UPI,August,8
+2024-08-25,Nykaa,Shopping,4630.75,Credit Card,August,8
+2024-08-27,Unacademy,Education,2838.49,Credit Card,August,8
+2024-08-28,Ola,Transport,1021.19,UPI,August,8
+2024-08-28,Apollo Pharmacy,Health,1375.78,UPI,August,8
+2024-08-28,KFC,Food & Dining,487.68,Net Banking,August,8
+2024-08-28,BigBasket,Groceries,175.82,Credit Card,August,8
+2024-08-29,1mg,Health,1154.7,Credit Card,August,8
+2024-08-30,Swiggy,Food & Dining,275.55,Debit Card,August,8
+2024-08-30,BookMyShow,Entertainment,305.55,Debit Card,August,8
+2024-08-30,Internshala,Education,2203.56,UPI,August,8
+2024-08-30,Airtel,Utilities,563.67,UPI,August,8
+2024-08-30,Rapido,Transport,1125.37,UPI,August,8
+2024-08-31,Amazon,Shopping,2362.51,Debit Card,August,8
+2024-08-31,Spotify,Entertainment,384.76,UPI,August,8
+2024-08-31,DMart,Groceries,138.44,Debit Card,August,8
+2024-08-31,Jio Recharge,Utilities,594.84,UPI,August,8
+2024-08-31,Meesho,Shopping,4687.32,Credit Card,August,8
+2024-09-01,Domino's,Food & Dining,201.1,UPI,September,9
+2024-09-01,Airtel,Utilities,224.36,Credit Card,September,9
+2024-09-02,IndiGo Airlines,Transport,349.95,UPI,September,9
+2024-09-02,Indian Railways,Transport,1163.41,UPI,September,9
+2024-09-02,Airtel,Utilities,278.92,UPI,September,9
+2024-09-02,Meesho,Shopping,973.98,Debit Card,September,9
+2024-09-03,Ola,Transport,44.92,UPI,September,9
+2024-09-03,BigBasket,Groceries,1053.49,UPI,September,9
+2024-09-03,Cafe Coffee Day,Food & Dining,358.08,UPI,September,9
+2024-09-04,RedBus,Transport,922.56,UPI,September,9
+2024-09-04,Cafe Coffee Day,Food & Dining,563.74,UPI,September,9
+2024-09-04,Water Bill,Utilities,299.39,UPI,September,9
+2024-09-05,Swiggy,Food & Dining,592.51,Net Banking,September,9
+2024-09-06,Uber,Transport,396.69,UPI,September,9
+2024-09-06,KFC,Food & Dining,194.38,Credit Card,September,9
+2024-09-06,Lakme,Personal Care,262.07,Credit Card,September,9
+2024-09-07,McDonald's,Food & Dining,709.04,Debit Card,September,9
+2024-09-07,KFC,Food & Dining,251.54,UPI,September,9
+2024-09-07,DMart,Groceries,273.16,Credit Card,September,9
+2024-09-08,Amazon,Shopping,646.66,UPI,September,9
+2024-09-08,Zomato,Food & Dining,480.55,Credit Card,September,9
+2024-09-08,Salon,Personal Care,505.45,Debit Card,September,9
+2024-09-09,Meesho,Shopping,391.33,UPI,September,9
+2024-09-09,Meesho,Shopping,3847.41,UPI,September,9
+2024-09-11,Blinkit,Groceries,541.16,Credit Card,September,9
+2024-09-11,1mg,Health,237.32,Credit Card,September,9
+2024-09-11,Zepto,Groceries,650.38,Cash,September,9
+2024-09-12,Netflix,Entertainment,478.17,Credit Card,September,9
+2024-09-12,JioMart,Groceries,144.03,Net Banking,September,9
+2024-09-12,BookMyShow,Entertainment,253.4,Debit Card,September,9
+2024-09-12,Coursera,Education,1678.2,Cash,September,9
+2024-09-12,Amazon,Shopping,4907.22,Debit Card,September,9
+2024-09-12,KFC,Food & Dining,86.43,Net Banking,September,9
+2024-09-12,Other,Miscellaneous,2121.11,UPI,September,9
+2024-09-13,Zomato,Food & Dining,412.08,UPI,September,9
+2024-09-13,Cult.fit,Health,1067.63,UPI,September,9
+2024-09-14,Zepto,Groceries,399.12,Cash,September,9
+2024-09-14,Spotify,Entertainment,138.17,UPI,September,9
+2024-09-14,Nykaa,Shopping,1747.43,UPI,September,9
+2024-09-14,Cafe Coffee Day,Food & Dining,564.41,Credit Card,September,9
+2024-09-14,Swiggy,Food & Dining,685.99,Debit Card,September,9
+2024-09-15,Flipkart,Shopping,1232.69,UPI,September,9
+2024-09-15,Domino's,Food & Dining,452.78,UPI,September,9
+2024-09-15,Udemy,Education,1894.43,UPI,September,9
+2024-09-16,Uber,Transport,1013.55,Net Banking,September,9
+2024-09-17,Unacademy,Education,2536.23,Cash,September,9
+2024-09-17,1mg,Health,1302.84,UPI,September,9
+2024-09-17,Rapido,Transport,391.37,Cash,September,9
+2024-09-18,RedBus,Transport,191.3,UPI,September,9
+2024-09-18,KFC,Food & Dining,125.97,UPI,September,9
+2024-09-19,IndiGo Airlines,Transport,670.93,UPI,September,9
+2024-09-20,Apollo Pharmacy,Health,709.31,Credit Card,September,9
+2024-09-21,Electricity Bill,Utilities,665.74,Credit Card,September,9
+2024-09-21,Nykaa,Personal Care,1327.48,Debit Card,September,9
+2024-09-22,Meesho,Shopping,1396.15,Debit Card,September,9
+2024-09-22,Indian Railways,Transport,761.73,Debit Card,September,9
+2024-09-22,Coursera,Education,221.58,UPI,September,9
+2024-09-22,Spotify,Entertainment,547.71,UPI,September,9
+2024-09-23,Myntra,Shopping,2400.6,Debit Card,September,9
+2024-09-24,Nykaa,Shopping,1444.39,UPI,September,9
+2024-09-24,Jio Recharge,Utilities,555.89,UPI,September,9
+2024-09-25,Netflix,Entertainment,598.58,UPI,September,9
+2024-09-27,Domino's,Food & Dining,695.58,UPI,September,9
+2024-09-27,JioMart,Groceries,1932.29,Net Banking,September,9
+2024-09-28,IndiGo Airlines,Transport,673.95,UPI,September,9
+2024-09-28,Subway,Food & Dining,390.23,UPI,September,9
+2024-09-28,Swiggy,Food & Dining,241.25,UPI,September,9
+2024-09-28,Other,Miscellaneous,1526.88,UPI,September,9
+2024-09-28,KFC,Food & Dining,53.09,Debit Card,September,9
+2024-09-29,Rapido,Transport,820.77,Net Banking,September,9
+2024-09-29,RedBus,Transport,227.0,Cash,September,9
+2024-09-30,Jio Recharge,Utilities,940.45,Net Banking,September,9
+2024-09-30,YouTube Premium,Entertainment,695.81,Credit Card,September,9
+2024-10-01,Flipkart,Shopping,1827.45,Credit Card,October,10
+2024-10-01,Uber,Transport,692.28,Net Banking,October,10
+2024-10-01,Myntra,Shopping,4384.12,UPI,October,10
+2024-10-01,Cafe Coffee Day,Food & Dining,293.59,UPI,October,10
+2024-10-02,Udemy,Education,1366.29,Credit Card,October,10
+2024-10-03,Jio Recharge,Utilities,1128.66,Credit Card,October,10
+2024-10-03,Flipkart,Shopping,2282.55,Debit Card,October,10
+2024-10-04,Amazon,Shopping,1462.44,Net Banking,October,10
+2024-10-04,ATM Withdrawal,Miscellaneous,3674.95,UPI,October,10
+2024-10-04,IndiGo Airlines,Transport,1463.32,UPI,October,10
+2024-10-04,Salon,Personal Care,725.26,Net Banking,October,10
+2024-10-05,NPTEL,Education,3964.37,Credit Card,October,10
+2024-10-05,Ajio,Shopping,4875.65,UPI,October,10
+2024-10-05,Electricity Bill,Utilities,1380.72,UPI,October,10
+2024-10-06,Meesho,Shopping,6871.42,Credit Card,October,10
+2024-10-06,1mg,Health,370.21,UPI,October,10
+2024-10-06,IndiGo Airlines,Transport,258.77,Net Banking,October,10
+2024-10-07,Flipkart,Shopping,4683.3,UPI,October,10
+2024-10-07,KFC,Food & Dining,215.72,Credit Card,October,10
+2024-10-08,KFC,Food & Dining,1079.92,Cash,October,10
+2024-10-08,Myntra,Shopping,5630.55,Net Banking,October,10
+2024-10-08,Domino's,Food & Dining,636.3,Cash,October,10
+2024-10-08,Subway,Food & Dining,169.18,UPI,October,10
+2024-10-09,Swiggy,Food & Dining,98.41,Net Banking,October,10
+2024-10-09,Udemy,Education,1917.37,UPI,October,10
+2024-10-09,Udemy,Education,2674.59,Credit Card,October,10
+2024-10-10,NPTEL,Education,1115.45,UPI,October,10
+2024-10-10,Subway,Food & Dining,813.55,Credit Card,October,10
+2024-10-10,Udemy,Education,1033.31,Credit Card,October,10
+2024-10-11,Unacademy,Education,751.97,Cash,October,10
+2024-10-11,Myntra,Shopping,3960.44,UPI,October,10
+2024-10-11,Ajio,Shopping,1529.09,Debit Card,October,10
+2024-10-12,Mamaearth,Personal Care,1189.98,Credit Card,October,10
+2024-10-13,Myntra,Shopping,4475.06,Debit Card,October,10
+2024-10-13,Blinkit,Groceries,1365.77,UPI,October,10
+2024-10-13,1mg,Health,1949.39,Credit Card,October,10
+2024-10-13,McDonald's,Food & Dining,346.17,Credit Card,October,10
+2024-10-14,Cafe Coffee Day,Food & Dining,302.57,Cash,October,10
+2024-10-14,Flipkart,Shopping,1299.59,UPI,October,10
+2024-10-15,Cafe Coffee Day,Food & Dining,576.68,Credit Card,October,10
+2024-10-16,Cafe Coffee Day,Food & Dining,725.03,UPI,October,10
+2024-10-16,NPTEL,Education,1535.96,UPI,October,10
+2024-10-16,KFC,Food & Dining,286.35,Debit Card,October,10
+2024-10-16,KFC,Food & Dining,885.11,Credit Card,October,10
+2024-10-16,BookMyShow,Entertainment,775.73,UPI,October,10
+2024-10-16,Udemy,Education,2813.29,UPI,October,10
+2024-10-17,Water Bill,Utilities,1066.2,UPI,October,10
+2024-10-17,Zomato,Food & Dining,634.93,Debit Card,October,10
+2024-10-17,McDonald's,Food & Dining,363.17,Net Banking,October,10
+2024-10-18,BookMyShow,Entertainment,483.53,Credit Card,October,10
+2024-10-18,Spotify,Entertainment,550.13,Debit Card,October,10
+2024-10-20,KFC,Food & Dining,818.02,Net Banking,October,10
+2024-10-20,RedBus,Transport,86.95,Net Banking,October,10
+2024-10-20,KFC,Food & Dining,772.07,Credit Card,October,10
+2024-10-21,Netflix,Entertainment,909.54,UPI,October,10
+2024-10-21,IndiGo Airlines,Transport,523.1,Credit Card,October,10
+2024-10-21,Ajio,Shopping,4417.97,UPI,October,10
+2024-10-21,RedBus,Transport,1256.54,UPI,October,10
+2024-10-21,McDonald's,Food & Dining,457.24,Credit Card,October,10
+2024-10-21,Water Bill,Utilities,662.76,Debit Card,October,10
+2024-10-21,Swiggy,Food & Dining,320.33,Net Banking,October,10
+2024-10-21,JioMart,Groceries,594.8,Credit Card,October,10
+2024-10-22,Ajio,Shopping,4716.42,UPI,October,10
+2024-10-22,Swiggy,Food & Dining,765.88,Credit Card,October,10
+2024-10-22,Udemy,Education,2918.46,Credit Card,October,10
+2024-10-23,PharmEasy,Health,1267.47,Credit Card,October,10
+2024-10-23,McDonald's,Food & Dining,661.29,UPI,October,10
+2024-10-24,Cafe Coffee Day,Food & Dining,773.07,Cash,October,10
+2024-10-24,Swiggy,Food & Dining,643.16,Credit Card,October,10
+2024-10-24,YouTube Premium,Entertainment,251.82,UPI,October,10
+2024-10-24,McDonald's,Food & Dining,600.24,Credit Card,October,10
+2024-10-25,NPTEL,Education,2987.94,Debit Card,October,10
+2024-10-25,Airtel,Utilities,984.46,UPI,October,10
+2024-10-25,Rapido,Transport,409.41,Credit Card,October,10
+2024-10-26,Nykaa,Personal Care,1724.01,UPI,October,10
+2024-10-26,Zomato,Food & Dining,214.84,UPI,October,10
+2024-10-26,Meesho,Shopping,5422.45,Credit Card,October,10
+2024-10-27,Indian Railways,Transport,1036.24,UPI,October,10
+2024-10-27,Zomato,Food & Dining,695.62,Credit Card,October,10
+2024-10-27,Ajio,Shopping,2526.52,UPI,October,10
+2024-10-28,Netflix,Entertainment,829.75,UPI,October,10
+2024-10-29,Domino's,Food & Dining,130.84,UPI,October,10
+2024-10-29,KFC,Food & Dining,398.57,UPI,October,10
+2024-10-30,Cafe Coffee Day,Food & Dining,323.18,UPI,October,10
+2024-10-31,Indian Railways,Transport,982.63,Credit Card,October,10
+2024-10-31,Domino's,Food & Dining,754.39,UPI,October,10
+2024-10-31,Coursera,Education,593.38,Credit Card,October,10
+2024-11-01,Airtel,Utilities,1157.37,Net Banking,November,11
+2024-11-01,Uber,Transport,315.96,Credit Card,November,11
+2024-11-01,BigBasket,Groceries,1382.36,UPI,November,11
+2024-11-02,Ajio,Shopping,3807.48,Net Banking,November,11
+2024-11-02,Zepto,Groceries,509.59,UPI,November,11
+2024-11-03,Amazon,Shopping,372.46,UPI,November,11
+2024-11-03,Myntra,Shopping,4564.74,Credit Card,November,11
+2024-11-03,Myntra,Shopping,5733.0,Cash,November,11
+2024-11-04,DMart,Groceries,331.07,Net Banking,November,11
+2024-11-04,Cafe Coffee Day,Food & Dining,792.48,Debit Card,November,11
+2024-11-04,KFC,Food & Dining,918.78,UPI,November,11
+2024-11-05,Nykaa,Shopping,971.26,Net Banking,November,11
+2024-11-05,McDonald's,Food & Dining,110.89,UPI,November,11
+2024-11-06,Nykaa,Personal Care,1361.1,UPI,November,11
+2024-11-06,Unacademy,Education,2856.78,Debit Card,November,11
+2024-11-06,Zepto,Groceries,2175.0,Credit Card,November,11
+2024-11-07,Swiggy,Food & Dining,330.56,Credit Card,November,11
+2024-11-07,Amazon,Shopping,4598.06,UPI,November,11
+2024-11-07,Domino's,Food & Dining,279.84,Net Banking,November,11
+2024-11-08,Nykaa,Personal Care,1657.0,UPI,November,11
+2024-11-08,Unacademy,Education,1376.13,Debit Card,November,11
+2024-11-09,BookMyShow,Entertainment,646.96,UPI,November,11
+2024-11-09,Domino's,Food & Dining,159.95,UPI,November,11
+2024-11-09,Electricity Bill,Utilities,546.53,Debit Card,November,11
+2024-11-10,Cafe Coffee Day,Food & Dining,949.32,UPI,November,11
+2024-11-10,Bank Charges,Miscellaneous,2613.98,UPI,November,11
+2024-11-10,Meesho,Shopping,4186.17,Credit Card,November,11
+2024-11-10,Salon,Personal Care,1744.01,Credit Card,November,11
+2024-11-10,JioMart,Groceries,1490.63,Debit Card,November,11
+2024-11-10,Airtel,Utilities,1118.6,UPI,November,11
+2024-11-10,NPTEL,Education,679.52,Credit Card,November,11
+2024-11-10,YouTube Premium,Entertainment,455.24,Credit Card,November,11
+2024-11-11,Swiggy,Food & Dining,885.68,Credit Card,November,11
+2024-11-11,Zepto,Groceries,2305.77,Credit Card,November,11
+2024-11-11,Electricity Bill,Utilities,813.46,UPI,November,11
+2024-11-11,Airtel,Utilities,294.2,Credit Card,November,11
+2024-11-12,KFC,Food & Dining,740.51,Credit Card,November,11
+2024-11-12,Meesho,Shopping,5791.67,UPI,November,11
+2024-11-13,KFC,Food & Dining,613.02,Net Banking,November,11
+2024-11-13,Rapido,Transport,669.98,Debit Card,November,11
+2024-11-13,KFC,Food & Dining,135.55,Debit Card,November,11
+2024-11-14,YouTube Premium,Entertainment,158.21,Debit Card,November,11
+2024-11-14,KFC,Food & Dining,160.95,UPI,November,11
+2024-11-14,Zomato,Food & Dining,672.2,Net Banking,November,11
+2024-11-15,Ola,Transport,54.03,Cash,November,11
+2024-11-16,IndiGo Airlines,Transport,723.6,UPI,November,11
+2024-11-16,Subway,Food & Dining,128.19,UPI,November,11
+2024-11-16,Zomato,Food & Dining,974.26,Credit Card,November,11
+2024-11-16,McDonald's,Food & Dining,699.01,Debit Card,November,11
+2024-11-17,BookMyShow,Entertainment,584.1,UPI,November,11
+2024-11-17,Subway,Food & Dining,483.6,Net Banking,November,11
+2024-11-17,Domino's,Food & Dining,334.26,Net Banking,November,11
+2024-11-18,KFC,Food & Dining,190.31,Credit Card,November,11
+2024-11-18,ATM Withdrawal,Miscellaneous,3962.71,UPI,November,11
+2024-11-18,Meesho,Shopping,1040.6,Net Banking,November,11
+2024-11-18,Nykaa,Shopping,2137.48,UPI,November,11
+2024-11-20,Subway,Food & Dining,325.45,UPI,November,11
+2024-11-20,PharmEasy,Health,615.32,Cash,November,11
+2024-11-21,JioMart,Groceries,1776.92,Debit Card,November,11
+2024-11-21,Rapido,Transport,361.04,Debit Card,November,11
+2024-11-21,Internshala,Education,3452.92,UPI,November,11
+2024-11-21,JioMart,Groceries,1414.03,UPI,November,11
+2024-11-22,McDonald's,Food & Dining,490.44,UPI,November,11
+2024-11-22,Ajio,Shopping,1938.27,UPI,November,11
+2024-11-22,Steam,Entertainment,639.27,UPI,November,11
+2024-11-23,KFC,Food & Dining,299.06,Debit Card,November,11
+2024-11-23,Lakme,Personal Care,455.25,Credit Card,November,11
+2024-11-23,Amazon,Shopping,1515.22,Debit Card,November,11
+2024-11-24,Nykaa,Shopping,6190.24,Net Banking,November,11
+2024-11-24,Cult.fit,Health,393.44,UPI,November,11
+2024-11-24,RedBus,Transport,1378.51,UPI,November,11
+2024-11-24,Water Bill,Utilities,888.97,UPI,November,11
+2024-11-25,Nykaa,Personal Care,2028.56,UPI,November,11
+2024-11-26,Cafe Coffee Day,Food & Dining,484.86,Debit Card,November,11
+2024-11-26,Indian Railways,Transport,490.53,Net Banking,November,11
+2024-11-26,Airtel,Utilities,250.75,UPI,November,11
+2024-11-26,Jio Recharge,Utilities,1491.68,UPI,November,11
+2024-11-27,Indian Railways,Transport,1122.76,Cash,November,11
+2024-11-27,McDonald's,Food & Dining,751.32,UPI,November,11
+2024-11-27,Cafe Coffee Day,Food & Dining,521.77,Credit Card,November,11
+2024-11-27,Rapido,Transport,1425.66,UPI,November,11
+2024-11-27,Ola,Transport,858.22,UPI,November,11
+2024-11-28,Unacademy,Education,1042.15,Debit Card,November,11
+2024-11-28,McDonald's,Food & Dining,935.88,UPI,November,11
+2024-11-29,Zomato,Food & Dining,884.02,UPI,November,11
+2024-11-29,Cafe Coffee Day,Food & Dining,985.58,Credit Card,November,11
+2024-11-29,UPI Transfer,Miscellaneous,1244.15,Credit Card,November,11
+2024-11-30,Salon,Personal Care,879.13,Cash,November,11
+2024-11-30,ATM Withdrawal,Miscellaneous,450.49,Credit Card,November,11
+2024-11-30,Jio Recharge,Utilities,1051.96,UPI,November,11
+2024-12-01,Airtel,Utilities,893.54,Credit Card,December,12
+2024-12-01,Myntra,Shopping,1391.66,Net Banking,December,12
+2024-12-01,Meesho,Shopping,2470.62,UPI,December,12
+2024-12-01,Internshala,Education,1216.36,UPI,December,12
+2024-12-02,IndiGo Airlines,Transport,880.84,UPI,December,12
+2024-12-03,Subway,Food & Dining,641.81,UPI,December,12
+2024-12-03,McDonald's,Food & Dining,316.35,Credit Card,December,12
+2024-12-03,Cafe Coffee Day,Food & Dining,753.35,UPI,December,12
+2024-12-04,Swiggy,Food & Dining,180.36,UPI,December,12
+2024-12-04,Airtel,Utilities,567.65,Credit Card,December,12
+2024-12-04,Blinkit,Groceries,1341.71,UPI,December,12
+2024-12-04,Amazon,Shopping,1355.2,UPI,December,12
+2024-12-05,KFC,Food & Dining,371.46,Net Banking,December,12
+2024-12-05,Ajio,Shopping,1706.01,UPI,December,12
+2024-12-06,Swiggy,Food & Dining,565.12,Credit Card,December,12
+2024-12-07,Electricity Bill,Utilities,1124.93,UPI,December,12
+2024-12-08,Uber,Transport,1088.26,Credit Card,December,12
+2024-12-09,Unacademy,Education,1084.3,Debit Card,December,12
+2024-12-09,Salon,Personal Care,914.02,Debit Card,December,12
+2024-12-09,Internshala,Education,1635.64,Debit Card,December,12
+2024-12-10,Coursera,Education,368.72,Debit Card,December,12
+2024-12-10,Blinkit,Groceries,524.05,Credit Card,December,12
+2024-12-10,KFC,Food & Dining,537.56,Cash,December,12
+2024-12-11,Flipkart,Shopping,713.68,UPI,December,12
+2024-12-11,Udemy,Education,2273.18,UPI,December,12
+2024-12-12,PharmEasy,Health,906.21,UPI,December,12
+2024-12-12,Ajio,Shopping,4128.21,Cash,December,12
+2024-12-12,UPI Transfer,Miscellaneous,448.82,Debit Card,December,12
+2024-12-12,KFC,Food & Dining,357.13,UPI,December,12
+2024-12-13,Unacademy,Education,1674.42,UPI,December,12
+2024-12-13,BookMyShow,Entertainment,138.55,UPI,December,12
+2024-12-13,Rapido,Transport,876.77,Credit Card,December,12
+2024-12-13,Airtel,Utilities,1159.05,Debit Card,December,12
+2024-12-13,Cult.fit,Health,721.13,UPI,December,12
+2024-12-13,NPTEL,Education,1376.92,Net Banking,December,12
+2024-12-14,Internshala,Education,1907.21,UPI,December,12
+2024-12-15,Lakme,Personal Care,1028.33,Debit Card,December,12
+2024-12-15,Swiggy,Food & Dining,535.53,Credit Card,December,12
+2024-12-15,Cafe Coffee Day,Food & Dining,96.52,Debit Card,December,12
+2024-12-15,Swiggy,Food & Dining,601.31,UPI,December,12
+2024-12-16,Zepto,Groceries,1170.67,UPI,December,12
+2024-12-17,Swiggy,Food & Dining,658.36,Net Banking,December,12
+2024-12-17,McDonald's,Food & Dining,640.87,Credit Card,December,12
+2024-12-17,Ajio,Shopping,4551.33,Credit Card,December,12
+2024-12-17,Bank Charges,Miscellaneous,2988.8,Credit Card,December,12
+2024-12-17,Indian Railways,Transport,727.94,UPI,December,12
+2024-12-17,Cult.fit,Health,1465.94,Credit Card,December,12
+2024-12-17,Zomato,Food & Dining,590.61,Debit Card,December,12
+2024-12-18,IndiGo Airlines,Transport,744.01,UPI,December,12
+2024-12-18,Uber,Transport,882.73,Net Banking,December,12
+2024-12-19,McDonald's,Food & Dining,349.24,Credit Card,December,12
+2024-12-19,Zepto,Groceries,168.45,UPI,December,12
+2024-12-19,BigBasket,Groceries,929.75,UPI,December,12
+2024-12-19,Domino's,Food & Dining,631.23,Net Banking,December,12
+2024-12-19,Cafe Coffee Day,Food & Dining,543.8,UPI,December,12
+2024-12-20,KFC,Food & Dining,486.17,Credit Card,December,12
+2024-12-20,JioMart,Groceries,615.08,Net Banking,December,12
+2024-12-20,Apollo Pharmacy,Health,626.91,UPI,December,12
+2024-12-21,Swiggy,Food & Dining,98.17,UPI,December,12
+2024-12-21,NPTEL,Education,2388.53,UPI,December,12
+2024-12-22,PharmEasy,Health,1204.53,Credit Card,December,12
+2024-12-22,Amazon,Shopping,1641.27,Debit Card,December,12
+2024-12-23,Amazon,Shopping,4871.1,Credit Card,December,12
+2024-12-23,Flipkart,Shopping,4704.42,Credit Card,December,12
+2024-12-24,Nykaa,Personal Care,384.53,UPI,December,12
+2024-12-25,McDonald's,Food & Dining,359.32,UPI,December,12
+2024-12-26,PharmEasy,Health,976.13,Net Banking,December,12
+2024-12-26,BigBasket,Groceries,1708.31,Net Banking,December,12
+2024-12-26,Zepto,Groceries,1558.3,Credit Card,December,12
+2024-12-27,Amazon,Shopping,736.99,Net Banking,December,12
+2024-12-27,Myntra,Shopping,2805.12,Credit Card,December,12
+2024-12-28,Uber,Transport,1149.68,Credit Card,December,12
+2024-12-29,Domino's,Food & Dining,721.19,Debit Card,December,12
+2024-12-29,Water Bill,Utilities,283.98,Credit Card,December,12
+2024-12-29,Unacademy,Education,2706.35,Net Banking,December,12
+2024-12-29,PharmEasy,Health,888.08,UPI,December,12
+2024-12-30,Jio Recharge,Utilities,429.2,Credit Card,December,12
+2024-12-30,Nykaa,Personal Care,1422.92,Debit Card,December,12
+2024-12-31,Domino's,Food & Dining,725.34,Debit Card,December,12

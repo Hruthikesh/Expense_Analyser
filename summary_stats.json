@@ -1,0 +1,25 @@
+{
+  "total_transactions": 1000,
+  "total_spend": 1065403.35,
+  "avg_per_transaction": 1065.4,
+  "top_category": "Shopping",
+  "top_category_spend": 418983.32,
+  "top_merchant": "Myntra",
+  "highest_month": "Oct",
+  "lowest_month": "Sep",
+  "anomalies_count": 62,
+  "anomaly_threshold": 3177.52,
+  "most_used_payment": "UPI",
+  "category_breakdown": {
+    "Shopping": 418983.32,
+    "Education": 138590.35,
+    "Food & Dining": 132683.12,
+    "Transport": 81663.86,
+    "Groceries": 74078.7,
+    "Utilities": 56141.07,
+    "Miscellaneous": 46314.78,
+    "Health": 44128.39,
+    "Personal Care": 42469.31,
+    "Entertainment": 30350.45
+  }
+}
